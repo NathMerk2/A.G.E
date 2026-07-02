@@ -4,3 +4,7 @@ que sera donde tendremos el sitio con el url en linea, osea para verlo con el en
 van a subir el archivo que modifiquen a proyeto/A.G.E/ y hacen el commit.
 Pj.
 si modifican el archivo dashboard.html, suben solo ese archivo al direcorio donde esta hosteado el proyecto.
+
+estos son los links del css y js pa q lo pongan al html, copiar y pegar nomas, si quieren
+<script src="js/script.js"></script>
+<link rel="stylesheet" href="css/style.css">
